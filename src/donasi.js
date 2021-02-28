@@ -2,20 +2,14 @@ const donasi = () => {
 	return `
 
 ┏━━━━━━━━━━━━━━━━━━━━
-┃          𝗗𝗢𝗡𝗔𝗦𝗜  
+┃          ¿DONAR?  
 ┣━━━━━━━━━━━━━━━━━━━━
-┣━⊱ 𝗗𝗢𝗡𝗔𝗦𝗜 𝗕𝗢𝗦𝗤𝗨𝗘 ❉⊰━━✿
-┃  
-┣━⊱ *DANA*
-┣⊱ 0895-7100-73737
-┣━⊱ *PULSA*
-┣⊱ 0823-3429-7175
+┣━⊱ GRACIAS POR PREOCUPARTE❉⊰━━✿
+┃  pero no hace falta ;)❤
 ┃
 ┣━━━━━━━━━━━━━━━━━━━━
-┃  *BOT BY AFFIS*
-┗━━━━━━━━━━━━━━━━━━━━
-
-`
+┃  *BOT BY MELIODAS*
+┗━━━━━━━━━━━━━━━━━━━━`
 }
 
 exports.donasi = donasi
