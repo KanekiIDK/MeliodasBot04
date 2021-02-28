@@ -10,7 +10,7 @@
 
 ### TERMUX✔
 
-```SCRIPT:
+```bash
 
 pkg update && pkg upgrade
 
