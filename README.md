@@ -10,7 +10,9 @@
 
 ### TERMUX✔
 
-```pkg update && pkg upgrade
+```SCRIPT:
+
+pkg update && pkg upgrade
 
 apt-get update
 
