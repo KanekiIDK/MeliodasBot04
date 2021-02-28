@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.tenor.com/images/21a71aaee13a67feece9695630d6e338/tenor.gif" width="530" height="490"/>
+<img src="https://i.pinimg.com/originals/3e/ec/17/3eec17c93e06e9425cd4a1388168b805.gif" width="310" height="290"/>
 </p>
 
 # MeliodasBot04
