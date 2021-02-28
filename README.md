@@ -10,7 +10,7 @@
 
 ### TERMUX✔
 
-pkg update && pkg upgrade
+```pkg update && pkg upgrade
 
 apt-get update
 
@@ -27,3 +27,4 @@ cd MeliodasBot04
 bash install.sh
 
 node index.js
+```
